@@ -2,7 +2,10 @@
 
 # ⚔️ Elden Ring Profile Manager
 
-[![Release]([![Release](https://img.shields.io/github/v/release/Yamatos27/ERPM-Elden-Ring-Profile-Manager?style=for-the-badge&color=gold)](https://github.com/Yamatos27/ERPM-Elden-Ring-Profile-Manager/releases/latest))
+## 📥 Téléchargement
+
+Accédez à toutes les versions et téléchargez le fichier ZIP d'installation sur la page des releases :
+👉 **[Voir toutes les versions et télécharger l'application](https://github.com/Yamatos27/ERPM-Elden-Ring-Profile-Manager/releases)**
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre_le_serveur-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mGERc2hNu)
 
 Un outil complet pour gérer vos profils, sauvegardes et configurations sur **Elden Ring**.
@@ -17,8 +20,10 @@ Un outil complet pour gérer vos profils, sauvegardes et configurations sur **El
 
 ---
 
-## 📥 Téléchargement & Installation
-1. Téléchargez la dernière version dans la section [Releases]([![Release](https://img.shields.io/github/v/release/Yamatos27/ERPM-Elden-Ring-Profile-Manager?style=for-the-badge&color=gold)](https://github.com/Yamatos27/ERPM-Elden-Ring-Profile-Manager/releases/latest).
+## 📥 Téléchargement
+
+Accédez à toutes les versions et téléchargez le fichier ZIP d'installation sur la page des releases :
+👉 **[Voir toutes les versions et télécharger l'application](https://github.com/Yamatos27/ERPM-Elden-Ring-Profile-Manager/releases)**
 2. Extrayez le fichier `.zip` dans le dossier de votre choix.
 3. Lancez l'exécutable principal.
 
