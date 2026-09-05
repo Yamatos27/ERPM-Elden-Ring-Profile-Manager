@@ -3,3 +3,7 @@
 
 
 [📥 Télécharger la dernière version (v1.4.8)](../../releases/latest)
+
+
+
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre_le_serveur-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mGERc2hNu)
